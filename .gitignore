@@ -1,0 +1,26 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.streamlit/secrets.toml
+.env
+.venv/
+venv/
+
+# Generated/runtime artifacts
+reports/generated/
+exports/
+
+# Raw or sensitive customer data. Public demos use data/sample only.
+data/raw/
+data/private/
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.joblib
+
+# Notebook execution clutter
+.ipynb_checkpoints/

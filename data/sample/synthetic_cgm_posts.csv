@@ -1,0 +1,37 @@
+id,date,text,source,brand,sentiment
+synth-001,2021-03-08,"Dexcom alerts woke me before a dangerous overnight low, but the app disconnected twice last week.",Forums,Dexcom,Mixed
+synth-002,2021-03-14,"Libre is easier to wear and the sensor feels lighter, but I still check fingersticks when readings look wrong.",Forums,Freestyle Libre,Mixed
+synth-003,2021-04-02,"My Dexcom G6 works well with my pump and the share feature helps my family track lows.",Forums,Dexcom,Positive
+synth-004,2021-04-19,"Insurance made Libre affordable when Dexcom was too expensive for my monthly budget.",Blogs,Freestyle Libre,Positive
+synth-005,2021-05-05,"Dexcom adhesive gave me a rash after a few days and the patch started falling off during workouts.",Forums,Dexcom,Negative
+synth-006,2021-05-22,"Libre setup was simple, but I wish the high and low alarms were stronger for night safety.",Forums,Freestyle Libre,Mixed
+synth-007,2021-06-03,"The Dexcom app crashed after a phone update and Bluetooth took hours to reconnect.",Twitter,Dexcom,Negative
+synth-008,2021-06-18,"Freestyle Libre readings were close enough for daily trends and the lower price mattered most.",Forums,Freestyle Libre,Positive
+synth-009,2021-07-07,"Dexcom calibration drifted badly for a day, and customer support did not explain what went wrong.",Forums,Dexcom,Negative
+synth-010,2021-07-30,"Libre was confusing at first because the instructions did not explain sensor warmup clearly.",Blogs,Freestyle Libre,Neutral
+synth-011,2021-08-12,"Dexcom share data lets my caregiver see urgent lows, which makes exercise feel safer.",Forums,Dexcom,Positive
+synth-012,2021-08-27,"Libre adhesive stays comfortable and the sensor is less painful than my older device.",Instagram,Freestyle Libre,Positive
+synth-013,2021-09-04,"Dexcom is accurate most days, but false low alarms make me nervous at night.",Forums,Dexcom,Mixed
+synth-014,2021-09-21,"Libre is affordable but insurance paperwork still slows down refills every month.",Forums,Freestyle Libre,Mixed
+synth-015,2021-10-03,"Dexcom integration with Tandem gives me better closed loop control and fewer manual checks.",Blogs,Dexcom,Positive
+synth-016,2021-10-19,"Freestyle Libre app sync failed after scanning and I lost data before a doctor visit.",Forums,Freestyle Libre,Negative
+synth-017,2021-11-06,"Dexcom sensors are expensive without coverage, even though the alerts are worth it.",Forums,Dexcom,Mixed
+synth-018,2021-11-24,"Libre does not alarm loudly enough for my teenager's overnight lows.",Forums,Freestyle Libre,Negative
+synth-019,2021-12-09,"Dexcom customer service replaced a failed sensor quickly and explained calibration steps.",Blogs,Dexcom,Positive
+synth-020,2021-12-20,"Libre readings lag during exercise, so I still use fingersticks when I feel low.",Forums,Freestyle Libre,Mixed
+synth-021,2022-01-08,"Dexcom Bluetooth drops when my phone is across the room, but caregiver sharing is excellent.",Forums,Dexcom,Mixed
+synth-022,2022-01-25,"Libre price is reasonable, but app education should explain trend arrows better.",Forums,Freestyle Libre,Neutral
+synth-023,2022-02-11,"Dexcom alerts are loud enough for sleep and helped me catch a high before breakfast.",Forums,Dexcom,Positive
+synth-024,2022-02-26,"Freestyle Libre sensor stayed on during swimming and did not irritate my skin.",Instagram,Freestyle Libre,Positive
+synth-025,2022-03-10,"Dexcom insertion was painful and the adhesive left red marks after removal.",Forums,Dexcom,Negative
+synth-026,2022-03-28,"Libre would be perfect for me if it had better real time alerts and family sharing.",Forums,Freestyle Libre,Mixed
+synth-027,2022-04-07,"Dexcom app upload to my clinic dashboard worked and made the appointment more useful.",Blogs,Dexcom,Positive
+synth-028,2022-04-19,"Insurance denied Dexcom twice even though my doctor wrote a prescription.",Forums,Dexcom,Negative
+synth-029,2022-05-03,"Libre setup took ten minutes and the lower cost helped me stay consistent.",Forums,Freestyle Libre,Positive
+synth-030,2022-05-24,"Dexcom G7 signal improved, but I still see occasional sensor error messages.",Forums,Dexcom,Mixed
+synth-031,2022-06-04,"Libre scan reminders are helpful, but I missed lows because there was no urgent alarm.",Forums,Freestyle Libre,Negative
+synth-032,2022-06-17,"Dexcom pump integration matters more to me than price because overnight safety is the priority.",Forums,Dexcom,Positive
+synth-033,2022-07-02,"Freestyle Libre customer support explained a failed sensor replacement clearly.",Blogs,Freestyle Libre,Positive
+synth-034,2022-07-13,"Dexcom false readings made me lose trust and I had to calibrate with fingersticks.",Forums,Dexcom,Negative
+synth-035,2022-08-01,"Libre is comfortable enough for daily wear, but the app should share data with caregivers.",Forums,Freestyle Libre,Mixed
+synth-036,2022-08-26,"Dexcom is the better choice for my child because alarms and sharing reduce risk.",Forums,Dexcom,Positive

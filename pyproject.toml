@@ -1,0 +1,22 @@
+[project]
+name = "strategy-intelligence-dashboard"
+version = "0.1.0"
+description = "A reusable consulting intelligence dashboard that turns customer and market text into executive strategy signals."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy",
+  "openpyxl",
+  "pandas",
+  "plotly",
+  "scikit-learn",
+  "streamlit",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "jupyter", "nbconvert"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+pythonpath = ["src"]
+testpaths = ["tests"]
