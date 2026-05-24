@@ -1,4 +1,4 @@
-# Strategy Intelligence Dashboard
+# InsightLab
 
 A reusable consulting analytics suite that turns messy customer and market text into executive decisions.
 
