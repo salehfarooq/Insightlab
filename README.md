@@ -2,7 +2,7 @@
 
 A reusable consulting analytics suite that turns messy customer and market text into executive decisions.
 
-
+The flagship case study is a healthcare strategy that compares Dexcom and Freestyle Libre through patient-needs taxonomy, sentiment risk, topic modeling, customer segmentation, opportunity scoring, and boardroom-style recommendation briefs.
 
 ## Purpose
 
