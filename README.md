@@ -2,11 +2,9 @@
 
 A reusable consulting analytics suite that turns messy customer and market text into executive decisions.
 
-The flagship case study is **CGM Patient Voice Intelligence**: a healthcare strategy dashboard that compares Dexcom and Freestyle Libre through patient-needs taxonomy, sentiment risk, topic modeling, customer segmentation, opportunity scoring, and boardroom-style recommendation briefs.
+The flagship case study is a healthcare strategy that compares Dexcom and Freestyle Libre through patient-needs taxonomy, sentiment risk, topic modeling, customer segmentation, opportunity scoring, and boardroom-style recommendation briefs.
 
-## Why This Exists
-
-Most NLP notebooks stop at charts. This project pushes the analysis into a consulting workflow:
+## Purpose
 
 - What are customers actually saying?
 - Which issues are frequent, urgent, and strategically material?
@@ -75,8 +73,4 @@ src/strategy_dashboard/      Reusable analytics package
 tests/                       Pytest coverage for the analytics layer
 ```
 
-## CV Positioning
 
-**AI/ML:** Streamlit/Plotly consulting analytics suite over 37,844 CGM patient posts with NLP-derived customer segments, brand benchmarks, opportunity scores, and executive recommendations.
-
-**Consulting/Ops:** Advanced market-intelligence dashboard ranking Dexcom vs Freestyle Libre opportunities through customer segmentation, issue-burden scoring, scenario weighting, and executive recommendation briefs.
